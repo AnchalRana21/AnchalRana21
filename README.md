@@ -9,6 +9,7 @@
 Streaming chat · NL2SQL result views · Document extraction · Voice input
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-anchal--rana.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://anchal-rana.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anchalrana/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anchalrana2112002@gmail.com)
 [![Agent Platform](https://img.shields.io/badge/Live-agent.futuresmart.ai-6E56CF?style=for-the-badge)](https://agent.futuresmart.ai/)
 
@@ -135,7 +136,7 @@ Plus **Job Search Portal**, my MCA project: a full-stack Java web app with role-
 
 👀 Open to **frontend roles on AI products**, on-site or remote
 
-📫 **anchalrana2112002@gmail.com** · [anchal-rana.vercel.app](https://anchal-rana.vercel.app/)
+📫 **anchalrana2112002@gmail.com** · [LinkedIn](https://www.linkedin.com/in/anchalrana/) · [anchal-rana.vercel.app](https://anchal-rana.vercel.app/)
 
 <div align="center">
 <br>
